@@ -1,0 +1,82 @@
+html,body{
+    height: 100%;
+}
+body{
+    padding-top: 60px;
+}
+.navbar-brand{
+    margin-bottom: 15px;
+}.navbar-brand img{
+    border-radius: 50px;
+}
+.list-group{
+    margin-top: 10px;
+}
+.huge{
+    font-size: 40px;
+}
+.tag-boxes .panel-primary{
+    border: 1px solid;
+}
+.tag-boxes .panel-red{
+    color: white;
+    background-color: #d9524f;
+}
+.tag-boxes .panel-red a{
+    color: #d9524f;
+}
+.tag-boxes .panel-red a:hover{
+   color:  #b52b27;
+}
+
+.tag-boxes .panel-yellow{
+    color: white;
+    background-color: #f0ad4e;
+}
+.tag-boxes .panel-yellow a{
+    color: #f0ad4e;
+}
+.tag-boxes .panel-yellow a:hover{
+   color:  #df8a13;
+}
+.tag-boxes .panel-green{
+    color: white;
+    background-color: #3d8b3d;
+}
+.tag-boxes .panel-green a{
+    color:  #3d8b3d;
+}
+.tag-boxes .panel-green a:hover{
+   color:  #5cb85c;
+}
+h3{
+    color: blueviolet;
+}
+
+#wrapper{
+    min-height: 100%;
+    position:relative;
+}
+body-section{
+    padding-bottom: 70px;
+}
+footer{
+    background-color: blueviolet;
+    color: #fff;
+    height: 50px;
+    line-height: 50px;
+    font-size: 12px;
+    bottom: 0;
+    width: 100%;
+}
+footer a{
+    color: #ffff;
+    font-weight: bold;
+    font-size: 12px;
+}
+footer a:hover{
+    color: #fff;
+    text-decoration: underline;
+}/*
+User start
+*/
